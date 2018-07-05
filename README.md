@@ -1,5 +1,7 @@
 # elint-preset-xo
 
+[![npm version](https://badge.fury.io/js/elint-preset-xo.svg)](https://www.npmjs.com/package/elint-preset-xo)
+
 the xo preset for [elint](https://github.com/keenwon/elint).
 
 ## Rules
