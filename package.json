@@ -1,6 +1,6 @@
 {
   "name": "elint-preset-xo",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "the xo preset for elint",
   "main": "index.js",
   "scripts": {
