@@ -27,5 +27,8 @@
   },
   "peerDependencies": {
     "elint": "^1"
+  },
+  "elint": {
+    "updateCheckInterval": "7d"
   }
 }
