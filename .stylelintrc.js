@@ -1,5 +1,5 @@
 "use strict"
 
 module.exports = {
-  extends: "stylelint-config-xo"
+  extends: ["stylelint-config-xo", "stylelint-config-xo-scss"]
 }
