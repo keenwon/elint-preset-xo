@@ -1,7 +1,7 @@
 "use strict"
 
 module.exports = {
-  extends: ["xo/esnext", "xo/browser"],
+  extends: ["xo/esnext", "xo/browser", "xo-react"],
   env: {
     browser: true,
     node: true,
