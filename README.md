@@ -7,8 +7,12 @@ the xo preset for [elint](https://github.com/keenwon/elint).
 
 ## Rules
 
-- eslint: [eslint-config-xo](https://github.com/xojs/eslint-config-xo)
-- stylelint: [stylelint-config-xo](https://github.com/xojs/stylelint-config-xo)
+- eslint
+  - [eslint-config-xo](https://github.com/xojs/eslint-config-xo)
+  - [eslint-config-xo-react](https://github.com/xojs/eslint-config-xo-react)
+- stylelint
+  - [stylelint-config-xo](https://github.com/xojs/stylelint-config-xo)
+  - [stylelint-config-xo-scss](https://github.com/xojs/stylelint-config-xo-scss)
 
 ## Usage
 
